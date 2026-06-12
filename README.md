@@ -2,7 +2,9 @@
 
 > An end-to-end multi-agent AI system for automated property discovery, pricing analysis, and investor reporting — powered by LangGraph and RAG.
 
-**Built by:** Ricky Kumar
+**Built by:** Ricky Kumar www.linkedin.com/in/
+ricky-kumar-ptiii6202
+Vanity URL name
 
 ---
 

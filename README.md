@@ -2,11 +2,8 @@
 
 > An end-to-end multi-agent AI system for automated property discovery, pricing analysis, and investor reporting — powered by LangGraph and RAG.
 
-**Built by:** Ricky Kumar www.linkedin.com/in/
-ricky-kumar-ptiii6202
-Vanity URL name
-
----
+**Built by:**  www.linkedin.com/in/ricky-kumar-ptiii6202
+Ricky kumar
 
 ## 🚀 Overview
 
@@ -59,7 +56,24 @@ python main.py
 ```
 
 ---
+## 📁 Project Structure
 
+```
+projectdir/
+├── agents/
+│   ├── listing_agent.py      # Property discovery & filtering
+│   ├── valuation_agent.py    # Pricing analysis & ROI computation
+│   └── lead_agent.py         # Investor report generation
+├── rag/
+│   ├── ingest.py             # Index 50K+ listings into vector store
+│   └── retriever.py          # Natural-language query pipeline
+├── graph/
+│   └── workflow.py           # LangGraph state graph definition
+├── main.py
+├── requirements.txt
+├── .env.example
+└── README.md
+```
 ## 📌 Status
 
 🟢 Active Development — Jan 2026 – Present
